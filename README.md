@@ -1,2 +1,2 @@
-# AppDeCrimes
-App básico criado no Android Studio sobre crimes
+# App Quiz
+App básico criado no Android Studio
